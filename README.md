@@ -18,4 +18,3 @@
 ###### https://42.fr/en/ (Main campus website)
 
 ###### https://en.wikipedia.org/wiki/42_(school)
->>>>>>> 3fd69ca29e27af4fda001fce17248b63f5bf9c3b
