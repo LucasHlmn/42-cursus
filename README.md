@@ -1,1 +1,9 @@
-Here is the projects done during my 42 cursus program
+# 42 Tokyo Cursus
+
+## Completed Projects:
+
+[1. Libft](https://github.com/LucasHlmn/School_42_Cursus/libft)
+
+#### For more info, you can visit the following:
+	
+	https://42tokyo.jp/ (Tokyo Campus)   |    https://42.fr/en/ (Main campus website) | https://en.wikipedia.org/wiki/42_(school)
