@@ -10,13 +10,7 @@
 <br>
 <br>
 
-<<<<<<< HEAD
-For more info, you can visit the following:
-	
-https://42tokyo.jp/ (Tokyo Campus)
-https://42.fr/en/ (Main campus website)
-https://en.wikipedia.org/wiki/42_(school)
-=======
+
 ### For more info, you can visit the following:
 	
 ###### https://42tokyo.jp/ (Tokyo Campus)
