@@ -2,7 +2,7 @@
 
 ## Completed Projects:
 
-[1. Libft](https://github.com/LucasHlmn/School_42_Cursus/libft)
+[1. Libft](https://github.com/LucasHlmn/42-cursus/tree/master/libft)
 <br>
 <br>
 <br>
