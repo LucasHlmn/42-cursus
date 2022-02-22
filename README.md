@@ -3,6 +3,12 @@
 ## Completed Projects:
 
 [1. Libft](https://github.com/LucasHlmn/School_42_Cursus/libft)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### For more info, you can visit the following:
 	
